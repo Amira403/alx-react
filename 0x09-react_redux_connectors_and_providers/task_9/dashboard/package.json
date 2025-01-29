@@ -1,6 +1,7 @@
 {
   "name": "task_5",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.0",
@@ -56,6 +57,5 @@
       "\\.(css|sass)$": "<rootDir>/__mocks__/styleMock.js",
       "\\.(jpg|jpeg|png|gif|ttf|eot|svg)$": "<rootDir>/__mocks__/fileMock.js"
     }
-  },
-  "description": ""
+  }
 }

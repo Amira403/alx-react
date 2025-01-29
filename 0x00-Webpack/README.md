@@ -1,4 +1,1 @@
-##This is a README.md file
-ALX SE PROGRAM
-COHORT 12
-TOPIC: 0X00-WEBPACK
+To be updated later
